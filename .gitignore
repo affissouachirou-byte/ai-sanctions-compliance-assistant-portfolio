@@ -1,0 +1,24 @@
+# Prevent accidental publication of local execution material
+.env
+.env.*
+!.env.example
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.py[cod]
+*.log
+*.db
+*.sqlite*
+*.pem
+*.key
+*.p12
+*.pfx
+.ipynb_checkpoints/
+outputs/
+case-evidence/
+data/quarantine/
+data/validation/
+*.zip
+*.pdf
+.DS_Store
