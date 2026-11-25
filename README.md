@@ -4,7 +4,7 @@
 
 The project explores how screening-alert context, identity evidence, illustrative ownership calculations, dated regulatory sources, AI-assisted research and analyst review can be presented in one traceable investigation workflow.
 
-> **Project status — completed demonstration prototype (25 November 2026).** Not a production screening solution, a validated legal-advice system or a transaction-clearance tool. All scenarios described here are fictional.
+> **Project status — completed demonstration prototype.** Not a production screening solution, a validated legal-advice system or a transaction-clearance tool. All scenarios described here are fictional.
 
 ## The problem
 
